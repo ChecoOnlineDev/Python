@@ -50,4 +50,4 @@ elif ((total_cliente>=100)&(membresia.upper!="SI")):
 
 print(f"Su total habitual seria {total_cliente}, ahora con su descuento es {total_con_descuento}")
 
-
+print("Hola mundo")
