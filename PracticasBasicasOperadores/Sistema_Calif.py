@@ -3,6 +3,7 @@ Problema 1: Sistema de Calificaciones
 Situación: Un profesor necesita convertir calificaciones numéricas a letras.
 """
 calificacion = int(input("Dime tu calificacion: "))
+print("Holaa")
 
 if calificacion>=9:
     letra ="A"
