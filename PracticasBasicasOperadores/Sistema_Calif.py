@@ -4,6 +4,7 @@ Situación: Un profesor necesita convertir calificaciones numéricas a letras.
 """
 calificacion = int(input("Dime tu calificacion: "))
 
+
 if calificacion>=9:
     letra ="A"
     print("Excelente")
